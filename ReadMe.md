@@ -3,4 +3,9 @@
 1. There is a choice how to fullfill array - automatic (input *'Y'*) or manually (input *'N'*).
 2. After that the origin array will be analized for the number of the values that are equal to 3 symbols.
 3. Than new array will be created and fullfilled with the filtered elements.
+
+## Project Diagram
+
+![Diagram](./Final_project_diagram.png)
+
 _*Program created using C# by Dmitrii Mironov at 2022*_

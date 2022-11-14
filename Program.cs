@@ -105,12 +105,12 @@ string [] FillArrayManual(int length) // Заполнение массива в�
     
     }
 
-string [] ModifyArray(string [] Array) 
+string [] ModifyArray(string [] Array) // Обработка массива. На входе оригинальный массив, на выходе с элементами не длиннее 3-х симовлов.
     
     {
     
     int length = 0;
-    int newelements = 0;
+    int newelements = 0; 
 
     for(int count = 0; count < Array.Length; count ++) 
 
